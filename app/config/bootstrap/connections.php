@@ -72,7 +72,7 @@ use lithium\data\Connections;
 Connection::add('bank',array(
     'type' => 'bank',
     'adapter' => 'lloydstsb',
-    'login' => '',
+    'login' => ' ',
     'password' => '',
     'memorableword' => ''
 ));
