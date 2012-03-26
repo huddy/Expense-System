@@ -69,11 +69,4 @@ use lithium\data\Connections;
 // 	'encoding' => 'UTF-8'
 // ));
 
-Connection::add('bank',array(
-    'type' => 'bank',
-    'adapter' => 'lloydstsb',
-    'login' => '',
-    'password' => '',
-    'memorableword' => ''
-));
 ?>
