@@ -8,5 +8,5 @@ class BankTestController extends \lithium\action\Controller {
 		var_dump('hello!');
 	}
 
-
+}
 ?>
