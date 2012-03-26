@@ -1,4 +1,5 @@
 <?php
+//phpinfo();
 /**
  * Lithium: the most rad php framework
  *
